@@ -1,5 +1,3 @@
-package connectfour;
-
 public class Solver
 {
 	//Start from the center, move outward for max efficiency
